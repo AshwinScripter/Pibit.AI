@@ -14,7 +14,7 @@ This Python script extracts text and hyperlinks from a PDF resume, parses it int
 Before running the script, ensure you have Python 3.x installed. Clone the repository and install dependencies using pip:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AshwinScripter/Pibit.AI
 cd <repository-directory>
 pip install PyMuPDF
 ```
