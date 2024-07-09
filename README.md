@@ -1,7 +1,3 @@
-Certainly! Here's a README.md template that provides clear instructions and formatting for your project:
-
----
-
 # Resume PDF to JSON Converter
 
 This Python script extracts text and hyperlinks from a PDF resume, parses it into structured data, and saves the result as a JSON file. It utilizes PyMuPDF (fitz) for PDF handling and regular expressions for parsing.
@@ -70,10 +66,3 @@ Adjust the paths and instructions based on your specific use case and file locat
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README.md provides a structured guide on how to install, use, and contribute to your project. It also includes information about dependencies and licensing, ensuring clarity and accessibility for users and potential contributors. Adjust the content as needed to fit your specific project details and preferences.
