@@ -1,0 +1,115 @@
+{
+    "Contact Information": {
+        "Phone": "(+91)-9412424002",
+        "Email": "ashwin.official025@gmail.com",
+        "LinkedIn": "LinkedIn",
+        "GitHub": "GitHub"
+    },
+    "Education": [
+        "Bachelor of Technology, Computer Science Engineering, Bennett University",
+        "Greater Noida, India",
+        "GPA: 8.94/10",
+        "09/2021 \u2014 05/2025"
+    ],
+    "Experience": [
+        "Frontend Developer Intern [HTML5, CSS, Javascript, React.js, Tailwind.css]",
+        "02/2024 \u2014 04/2024",
+        "Experience and Adapt India Pvt. Ltd.",
+        "Remote",
+        "\u2022 Developed user-friendly web pages and features to effectively optimize user experience, resulting in a 25% increase in user",
+        "engagement.",
+        "Research Intern [MS-EXCEL, MY-SQL]",
+        "01/2024 \u2014 02/2024",
+        "SaveSage",
+        "Remote",
+        "\u2022 Led in-depth research on over 50 e-commerce loyalty programs, evaluating key features and benefits.",
+        "\u2022 Managed and optimized a database of 100+ loyalty programs using MySQL Workbench and Microsoft Excel, performing CRUD",
+        "(Create, Read, Update, Delete) operations.",
+        "Frontend Developer Intern [HTML5, CSS]",
+        "01/2024 \u2014 02/2024",
+        "Bharat Intern",
+        "Remote",
+        "\u2022 Developed a Netflix-inspired landing page using HTML5 and CSS, boosting user engagement by 45% with responsive design."
+    ],
+    "Skills": [
+        "Languages",
+        "Java | C++ | Python | MySQL | HTML5 | CSS | JavaScript",
+        "Technical Skills MS-EXCEL | MS-WORD | Power-BI | Git | Linux | Shell Scripting | Operating System | Data Structures and Algorithms | AI",
+        "| Machine- Learning | Deep Learning | React.js | Tailwind.css | Computer Networks",
+        "Soft Skills",
+        "Software Development | Mentorship | Team Management | Versatility"
+    ],
+    "Projects": [
+        "Bitcoin Price Prediction [Python, Google-Collab]",
+        "Github",
+        "\u2022 Implemented a Bitcoin price prediction system using the ARIMA model, achieving 85% accuracy and demonstrating expertise in time",
+        "series analysis and forecasting.",
+        "\u2022 Analyzed Bitcoin price data, performed EDA, and visualized predictions with matplotlib, boosting model accuracy by 15%.",
+        "UrbanShoppe [React.js, Tailwind.css, Redux-Toolkit]",
+        "Github",
+        "\u2022 Led development of UrbanShoppe eCommerce platform with React.js, increasing user engagement by 25%.",
+        "\u2022 Improved page load times by 15% with Tailwind.css, and reduced bugs by 20% using Redux-Toolkit.",
+        "MindSync, AI Voice Assistant [Python, NLP, Transfer Learning]",
+        "Github",
+        "\u2022 Incorporated voice assistant features resulted in a 30% increase in user engagement and 25% higher task efficiency.",
+        "\u2022 Enhanced accuracy by 80% through advanced NLP algorithms.",
+        "APP APK Analyzer [Python, Androguard Tool, JADX Tool]",
+        "Github",
+        "\u2022 Led the development of the App\u2019s APK Analyzer, a Python-based tool that streamlined APK analysis processes, resulting in a 50%",
+        "reduction in analysis time.",
+        "\u2022 Achieved 60% accuracy in static analysis using Androguard.",
+        "Diabetic Retinopathy Detection [Python, VGG19, DenseNet201, ResNet50, Kaggle]",
+        "Github",
+        "\u2022 Undertook a project utilizing state-of-the-art deep learning models (VGG19, DenseNet201, ResNet50) and transfer learning",
+        "techniques for Diabetic Retinopathy detection, leveraging the APTOS 2019 dataset from Kaggle, demonstrating advanced skills in",
+        "deep learning and medical imaging.",
+        "\u2022 Applied data balancing techniques and optimized the loss function for balanced weighted categorical entropy.",
+        "\u2022 Gained accuracies of 80% with DenseNet, 65% with ResNet, and 69% with VGG19."
+    ],
+    "Publication and Research": [
+        "Enhancing Liver Cirrhosis Diagnosis: A Comparative Analysis of \u201dXGBoost, SVM, and Random Forest\u201d Classifiers for Optimal Predic-",
+        "tive Analysis",
+        "Link",
+        "\u2022 Accepted by Scopus on April 12th, 2024, the paper was presented at the 4th International Conference on Computational Methods in",
+        "Science and Technology on May 2nd - 3rd, 2024.",
+        "\u2022 Technologies: Python, Kaggle, Machine Learning Algorithms (RandomForest, XGBoost, SVM)."
+    ],
+    "Links": [
+        {
+            "url": null,
+            "page": 1
+        },
+        {
+            "url": "https://www.linkedin.com/in/ashwin-sharma-4a4b41219/",
+            "page": 1
+        },
+        {
+            "url": "https://github.com/AshwinScripter",
+            "page": 1
+        },
+        {
+            "url": "https://github.com/AshwinScripter/Bitcoin_Price_Predictor",
+            "page": 1
+        },
+        {
+            "url": "https://github.com/AshwinScripter/AshwinScripter-UrbanShoppe--an-eCommerce-website",
+            "page": 1
+        },
+        {
+            "url": "https://github.com/AshwinScripter/AI-Assistant",
+            "page": 1
+        },
+        {
+            "url": "https://github.com/AshwinScripter/AppAPKAnalyzer",
+            "page": 1
+        },
+        {
+            "url": "https://github.com/AshwinScripter/Diabetic_Retinopathy_",
+            "page": 1
+        },
+        {
+            "url": "https://drive.google.com/file/d/1L1Lb7RtE70i5lVLXy6EJbpUz9ReoySEQ/view?usp=drive_link",
+            "page": 1
+        }
+    ]
+}
